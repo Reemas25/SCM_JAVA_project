@@ -11,6 +11,8 @@ package scm.project;
 public class Main{
     public static void main(String[] args) {
         System.out.println("Hello SCM Project!");
+        System.out.println("Hello from Feature-1 branch!");
     }
 }
     
+
